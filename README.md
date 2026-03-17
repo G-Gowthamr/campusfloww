@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CampusFlow
 
 A fully functional, MERN-stack productivity app built for the **Codestorm Hackathon**.
@@ -59,3 +60,6 @@ When judges visit your Vercel link, they will see a login screen. They must use 
 *   **Username:** `demo_user`
 *   **Password:** `demo_password`
 
+=======
+# campusfloww
+>>>>>>> e76aed70be0317849f15014507ebb4ebfe2e626d
