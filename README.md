@@ -58,3 +58,4 @@ When judges visit your Vercel link, they will see a login screen. They must use 
 
 *   **Username:** `demo_user`
 *   **Password:** `demo_password`
+
